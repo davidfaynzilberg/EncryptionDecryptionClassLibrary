@@ -1,0 +1,9 @@
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\obj\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.AssemblyInfoInputs.cache
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\obj\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.AssemblyInfo.cs
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\bin\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.deps.json
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\bin\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.dll
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\bin\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.pdb
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\obj\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.dll
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\obj\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.pdb
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\obj\Debug\netcoreapp2.2\EncryptionDecryptionClassLibrary.csprojAssemblyReference.cache
+C:\Users\David Faynzilberg\source\repos\EncryptionDecryptionClassLibrary\bin\Debug\netcoreapp2.2\encriptionKey.txt

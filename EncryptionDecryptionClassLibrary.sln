@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionDecryptionClassLibrary", "EncryptionDecryptionClassLibrary.csproj", "{7E909AD3-7561-42C6-A274-B0B08CE60799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptDecryptTest", "..\EncryptDecryptTest\EncryptDecryptTest.csproj", "{0A333A14-A3F2-4453-A50C-390635EC92C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E909AD3-7561-42C6-A274-B0B08CE60799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E909AD3-7561-42C6-A274-B0B08CE60799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E909AD3-7561-42C6-A274-B0B08CE60799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E909AD3-7561-42C6-A274-B0B08CE60799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A333A14-A3F2-4453-A50C-390635EC92C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A333A14-A3F2-4453-A50C-390635EC92C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A333A14-A3F2-4453-A50C-390635EC92C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A333A14-A3F2-4453-A50C-390635EC92C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12AAF6C6-BA91-4E40-B3F9-8BFD088B8802}
+	EndGlobalSection
+EndGlobal
